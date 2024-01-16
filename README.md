@@ -6,12 +6,12 @@ A student living in Tianjin who likes to sleep.
 
 *Amateur programming enthusiast.*
 
-- Read more about my [Blog](https://qwq.dog)
+- Read more about my [Blog](https://qwq.dog/about)
 - Telegram [Channel](https://t.me/rastersign)
 
 ### Languages
 
-[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/software-download/windows11)
 [![](https://img.shields.io/badge/iPhone-14-pink?style=flat-square&logo=apple&logoColor=ffffff)](https://www.iphone.com/)
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
